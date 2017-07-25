@@ -3,8 +3,8 @@ title: Hacker-Duoxingyu
 SEOTitle: Hacker-Duoxingyu | 一颗特立独行的星星
 header-img: img/home-bg.jpg
 email: 631224607@qq.com
-description: "Duoxingyu, Hacker-Duoxingyu, 一颗特立独行的星星, Html, Android, Reverse engineering"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+description: "Happy Every Day."
+keyword: "Duoxingyu, Hacker-Duoxingyu, 一颗特立独行的星星, Html, Android, Reverse engineering"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,10 +12,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     517nxy
+zhihu_username:     duoxingyu
+github_username:   Hacker-Duoxingyu
+#twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
